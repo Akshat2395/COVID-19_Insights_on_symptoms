@@ -37,9 +37,7 @@ The bar chart shows the frequency of our vocabulary list in all of our research 
 * Frequency of appearance of symptoms in research papers throughout the years
 
 <img src="https://github.com/Akshat2395/COVID-19_Insights_on_symptoms/blob/main/images/appearance_througout_years_1.png" width="1000" height="350">
-
 <img src="https://github.com/Akshat2395/COVID-19_Insights_on_symptoms/blob/main/images/appearance_througout_years_2.png" width="1000" height="350">
-
-<img src="https://github.com/Akshat2395/COVID-19_Insights_on_symptoms/blob/main/images/appearance_througout_years_3.png" width="1000" height="350">
+<img src="https://github.com/Akshat2395/COVID-19_Insights_on_symptoms/blob/main/images/appearance_througout_years_3.png" width="1000" height="175">
 
 
